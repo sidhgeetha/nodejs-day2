@@ -7,6 +7,16 @@ const PORT = 4000;
 app.use(cors())
 app.use(express.json())
 
+app.get("/", (req, res) => {
+  // res.status(200).json({message:"Hi team,welcome to guvi world"})
+  res
+    .status(200)
+    .send(
+      `<div style="background-color:yellow;"> <h1>https://github.com/sidhgeetha/nodejs-day2.git</h1> </div>`
+     
+    );
+});
+
 app. use('/bookingapi', bookingRouter)
 
 
