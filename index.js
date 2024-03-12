@@ -9,7 +9,7 @@ app.use(cors())
 app.use(express.json())
 
 app.get("/", (req, res) => {
- res.status(200).send(`<div>
+ res.status(200).send(`<div styele="text-align:center">
  
  <h1>Hall booking api's</h1>
  
