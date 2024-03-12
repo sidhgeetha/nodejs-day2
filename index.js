@@ -9,12 +9,12 @@ app.use(cors())
 app.use(express.json())
 
 app.get("/", (req, res) => {
-  res.status(200).json({message:"Hall booking api's"})
-  res
-    .status(200)
-    .send(
-      `<div > <h1>https://github.com/sidhgeetha/nodejs-day2.git</h1> </div>`
-    );
+ res.status(200).send(`<div>
+ 
+ <h1>Hall booking api's</h1>
+ 
+ </div>`);
+ 
 });
 
 app. use('/bookingapi', bookingRouter)
