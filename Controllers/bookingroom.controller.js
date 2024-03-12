@@ -145,27 +145,7 @@ export const getBookingInfo  = (req,res) =>{
    }
  };
 
-// export const customerBookingDetails = async (req, res) => {
-//   try {
-//     const bookingDetails = bookingRoom.map((booking) => {
-//       const room = roombookings.find((r) => r.room_id === booking.roomID);
-//       return {
-//         customer_name: booking.customer_name,
-//         room_name: room ? room.room_name : null,
-//         date: booking.date,
-//         start_time: booking.start_time,
-//         end_time: booking.end_time,
-//         booking_id: booking.booking_id,
-//         booking_date: booking.booking_date,
-//         booking_status: booking.status,
-//       };
-//     });
-//     res.status(200).json({ data: bookingDetails });
-//   } catch (error) {
-//     console.error("Error fetching customer booking details:", error);
-//     res.status(500).json({ error: "Internal server error" });
-//   }
-// };
+
 
 export const customerBookingDetails = (req,res) =>{
   try{
