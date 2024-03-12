@@ -12,16 +12,16 @@
 10. booking coiunt - get call => http://localhost:4000/bookingapi/customer-count
 
 
-## book room (POST)<img width="1400" alt="Screenshot 2024-03-11 at 22 03 28" src="https://github.com/sidhgeetha/nodejs-day2/assets/51734076/9569db38-5f21-4556-95fc-dc332c668de1">
+## book room (POST) ![Alt text](<Screenshot 2024-03-11 at 22.03.28.png>)
 
-## customer details(GET) <img width="1440" alt="Screenshot 2024-03-11 at 22 46 25" src="https://github.com/sidhgeetha/nodejs-day2/assets/51734076/8a61d9f7-b55d-4e5f-8166-22114f90ebd4">
+## customer details(GET)![Alt text](<Screenshot 2024-03-11 at 22.43.20.png>)
 
-## list of roomz  (GET)<img width="1424" alt="Screenshot 2024-03-11 at 22 04 11" src="https://github.com/sidhgeetha/nodejs-day2/assets/51734076/af4a7b50-7b38-48e1-a602-52336e16885e">
+## list of roomz  (GET) ![Alt text](<Screenshot 2024-03-11 at 22.04.11.png>)
 
-## create room api(POST)<img width="1379" alt="Screenshot 2024-03-11 at 21 52 48" src="https://github.com/sidhgeetha/nodejs-day2/assets/51734076/d8fa267c-4efb-4bdf-aa92-c3360cb737e4">
+## create room api(POST) ![Alt text](<Screenshot 2024-03-11 at 21.52.48.png>)
 
-## Room api booking info(GET) <img width="1399" alt="Screenshot 2024-03-11 at 22 03 51" src="https://github.com/sidhgeetha/nodejs-day2/assets/51734076/cdddc15d-8b5e-4c10-9c07-b524897bdbac">
+## Room api booking info(GET) ![Alt text](<Screenshot 2024-03-11 at 22.03.51.png>)
 
-## Booking count (GET) ## => ![Alt text](image.png)
+## Booking count (GET) ![Alt text](image-1.png)
 
 
